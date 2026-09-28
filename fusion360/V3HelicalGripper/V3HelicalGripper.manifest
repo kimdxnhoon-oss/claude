@@ -1,0 +1,10 @@
+{
+	"autodeskProduct": "Fusion",
+	"type": "script",
+	"author": "",
+	"description": {
+		"": "V3 helical gripper: 45T planet gears, 3.2 mm spacers, helical arms and XL330 15T sun adapter as a parametric assembly."
+	},
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}
